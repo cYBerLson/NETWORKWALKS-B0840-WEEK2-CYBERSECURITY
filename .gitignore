@@ -1,0 +1,10 @@
+*.pcap
+*.pcapng
+*.cap
+private-evidence/
+.env
+.env.*
+!.env.example
+__pycache__/
+Thumbs.db
+desktop.ini
