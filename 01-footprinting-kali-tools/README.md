@@ -289,16 +289,12 @@ The reported BIND version is an identification result and does not establish tha
 
 No exploitation or unauthorized access was attempted.
 
-### Evidence
 
-**DNS Records:**
+### Evidence — DNSRecon Enumeration
 
-![DNSRecon Main Records](screenshots/W2-PM1-06a-dnsrecon-main-records.png)
+The screenshot below shows the DNSRecon enumeration performed against the assigned domain.
 
-**SRV Enumeration:**
-
-![DNSRecon SRV Records](screenshots/W2-PM1-06b-dnsrecon-srv-results.png)
-
+![DNSRecon Enumeration Results](screenshots/W2-PM1-06-dnsrecon-enumeration.png)
 ---
 
 ## 9. Consolidated Results
